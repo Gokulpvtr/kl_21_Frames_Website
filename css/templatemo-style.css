@@ -3,10 +3,7 @@
 
 
 */
-*{
-  margin: 0;
-  padding: 0;
-}
+
 ul, nav, body, h1, h2, h4, h6, p, figure {
   margin: 0;
   padding: 0;
@@ -853,4 +850,5 @@ address {
   padding: 5px 20px 30px;
 
 }
+
 
